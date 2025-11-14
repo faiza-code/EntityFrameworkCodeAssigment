@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntityFreamworkAssigment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccb7a23ca7d8b863944a2cc725faa56348851c77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b99134059f0623669b9956b5ea8a42de21a34383")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntityFreamworkAssigment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntityFreamworkAssigment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
