@@ -17,10 +17,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="LibrarySystem\Models\" />
-    <Folder Include="LibrarySystem\Context\" />
-    <Folder Include="LibrarySystem\Ressorces\" />
-  </ItemGroup>
-
 </Project>
