@@ -23,6 +23,8 @@ namespace EntityFreamworkAssigment.E_Shop.Context
         {
             //base.OnModelCreating(modelBuilder);
             //modelBuilder.Entity<Categories>
+            modelBuilder.Entity<PaymentInformation>().ToTable("CorrectTableName");
+
         }
         public DbSet<Categories> categories{ get; set; }
         public DbSet<Customrs> customrs { get; set; }

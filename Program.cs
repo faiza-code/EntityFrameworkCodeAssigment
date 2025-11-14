@@ -16,9 +16,11 @@ namespace EntityFreamworkAssigment
         {
            
             ApplicationDbContext _context = new ApplicationDbContext();
+            
+            _context.Database.EnsureCreated();
 
 
-                Categories category = new Categories()
+            Categories category = new Categories()
                 {
                     CategoryName = "Food",
                 };

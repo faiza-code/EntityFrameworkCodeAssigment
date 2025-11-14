@@ -129,3 +129,4 @@ C:\Users\USER PC\OneDrive\Documents\DataBaseProject\EntityFreamworkAssigment\obj
 C:\Users\USER PC\OneDrive\Documents\DataBaseProject\EntityFreamworkAssigment\obj\Debug\net8.0\EntityFreamworkAssigment.pdb
 C:\Users\USER PC\OneDrive\Documents\DataBaseProject\EntityFreamworkAssigment\obj\Debug\net8.0\EntityFreamworkAssigment.genruntimeconfig.cache
 C:\Users\USER PC\OneDrive\Documents\DataBaseProject\EntityFreamworkAssigment\obj\Debug\net8.0\ref\EntityFreamworkAssigment.dll
+C:\Users\USER PC\OneDrive\Documents\DataBaseProject\EntityFreamworkAssigment\obj\Debug\net8.0\EntityFreamworkAssigment.sourcelink.json
